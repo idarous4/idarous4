@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Reverse Shell Simulation and Endpoint Telemetry Analysis          | <a href="https://github.com/idarous4/Basic-Home-Lab">Basic Home Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Automated Incident Response Workflow with SOAR & AD	 | <a href="https://github.com/idarous4/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -54,4 +54,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/idarous4/Basic-Home-Lab">Basic Home Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/idarous4/SOC-Automation-Lab">SOC Automation Lab</a>
